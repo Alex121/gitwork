@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">数据产生Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_page">页面埋点</string>
+    <string name="menu_network">网络埋点</string>
+    <string name="title_activity_first">FirstActivity</string>
+
+</resources>
